@@ -1,0 +1,10 @@
+********  ****STUDENT****  *Management*  ***System****  
+ ID     | NAME        | DEPT        |   DOB        |  
+ 
+970548  | vidushi     | mech        | 5-10-1998    | 
+925555  | Hitansh     | ece         | 15-6-1999    | 
+545454  | Hitesh      | cse         | 28-11-1998   | 
+5656    | kumar       | civil       | 5-10-1995    | 
+1278    | hello       | mech        | 14-3-1889    | 
+987542  | Tushar      | civil       | 2-3-1990     | 
+151515  | VARDAAN     | CSE         | 05-11-1997   | 
